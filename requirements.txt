@@ -1,0 +1,7 @@
+pandas
+nltk
+unittest2
+ipython
+gensim
+pyLDAvis
+wordcloud
