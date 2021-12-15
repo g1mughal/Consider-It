@@ -8,12 +8,9 @@ Moreover, this research is only based on reading different article and try to pr
 unsupervised learning (which word is belongs to which categories based on no labels). please follow the code for more
 detail.
 Data description
-which file 
-which column selected 
-why selected those columns
-there are two main columns are text in project 
-
-based output can be found in ROOT_DIR\src\output in the form of HTML display and also in CSV(contain preprossessed column which consist of important word for each prject) and wc.png(as a tag could PNG file output)
+the file that i choose is  
+project.CSV and after choosing i pick 2 columns from this file 1st is called title and 2nd is objecties because these are the full of text after worked on these files i got the expectional output:
+text based output can be found in ROOT_DIR\src\output in the form of HTML display and also in CSV(contain preprossessed column which consist of important word for each prject) and wc.png(as a tag could PNG file output)
 ## UML Diagram
 
 There are three files which consist of different classes for more detail please follow the below diagram
