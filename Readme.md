@@ -7,7 +7,13 @@ use this on a larger scale. I also restrict my self to only the questions those 
 Moreover, this research is only based on reading different article and try to produce the best results. as its type of
 unsupervised learning (which word is belongs to which categories based on no labels). please follow the code for more
 detail.
+Data description
+which file 
+which column selected 
+why selected those columns
+there are two main columns are text in project 
 
+based output can be found in ROOT_DIR\src\output in the form of HTML display and also in CSV(contain preprossessed column which consist of important word for each prject) and wc.png(as a tag could PNG file output)
 ## UML Diagram
 
 There are three files which consist of different classes for more detail please follow the below diagram
@@ -19,6 +25,7 @@ There are three files which consist of different classes for more detail please 
 ## Requirements
 
 * python 3.9 or >
+* redistribution c++ 14 or greater build tools for only word cloud to run on windows operating system
 
 ## Get started
 
