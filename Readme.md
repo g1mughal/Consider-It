@@ -7,9 +7,9 @@ use this on a larger scale. I also restrict my self to only the questions those 
 Moreover, this research is only based on reading different article and try to produce the best results. as its type of
 unsupervised learning (which word is belongs to which categories based on no labels). please follow the code for more
 detail.
-Data description
-the file that i choose is  
-project.CSV and after choosing i pick 2 columns from this file 1st is called title and 2nd is objecties because these are the full of text after worked on these files i got the expectional output:
+
+## Data description
+the file that i choose is project.CSV and ther are 2 columns are containing text "title" and "objectives" from project.csv but i choosed objectives because its containing more text than title after worked on these files i got the expectional output:
 text based output can be found in ROOT_DIR\src\output in the form of HTML display and also in CSV(contain preprossessed column which consist of important word for each prject) and wc.png(as a tag could PNG file output)
 ## UML Diagram
 
